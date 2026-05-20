@@ -1,6 +1,6 @@
 # CB Portfolio
 
-An AI generated and mordified personal portfolio website for Chimwemwe Bulambo showcasing skills, projects, and contact details. The site is built with plain HTML, CSS, and JavaScript for a fast, responsive experience.
+Chimwemwe Bulambo's personal portfolio website for Chimwemwe Bulambo showcasing skills, projects, and contact details. The site is built with plain HTML, CSS, and JavaScript for a fast, responsive experience.
 This is done to build skills in AI prompting as well and to review and learn more on web developing 
 ## Features
 
