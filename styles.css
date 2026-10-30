@@ -578,6 +578,15 @@ h3 {
     overflow: clip;
   }
 
+  .hero-visual::after {
+    width: min(100%, 400px);
+    transform: translate(-50%, -50%);
+  }
+
+  .hero-visual::before {
+    transform: translate(-50%, -50%);
+  }
+
   .site-nav {
     display: none;
     flex-direction: column;
